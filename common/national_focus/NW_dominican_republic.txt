@@ -939,7 +939,7 @@ focus_tree = {
 
 focus = {
 		id = DOM_industrial_effort
-		icon = GFX_goal_generic_construct_civ_factory
+		icon = GFX_dom_start_econom_rost
 		x = 1
 		y = 0
 		cost = 7.2
@@ -1007,7 +1007,7 @@ focus = {
 	
 focus = {
 		id = DOM_national_park
-		icon = GFX_goal_generic_consumer_goods
+		icon = GFX_dom_nac_park
 		prerequisite = {  }
 		x = 3
 		y = 0
@@ -1020,7 +1020,7 @@ focus = {
 	
 focus = {
 		id = DOM_delo_farm
-		icon = GFX_goal_generic_consumer_goods
+		icon = GFX_dom_ognevoe_hozaistvo
 		prerequisite = { focus = DOM_national_park }
 		x = 3
 		y = 1
@@ -1033,7 +1033,7 @@ focus = {
 	
 focus = {
 		id = DOM_industrial_effort2
-		icon = GFX_goal_generic_construct_civ_factory
+		icon = GFX_dom_econom_rost
 		prerequisite = { focus = DOM_industrial_effort }
 		x = 1
 		y = 1
@@ -1080,7 +1080,7 @@ focus = {
 	
 focus = {
 		id = DOM_industrial_effort3
-		icon = GFX_goal_generic_construct_civ_factory
+		icon = GFX_dom_econom_rost_two
 		prerequisite = { focus = DOM_industrial_effort2 }
 		x = 0
 		y = 2
@@ -1127,7 +1127,7 @@ focus = {
 	
 focus = {
 		id = DOM_extra_tech_slot
-		icon = GFX_focus_research
+		icon = GFX_dom_sponsir_univer
 		prerequisite = { focus = DOM_industrial_effort2 }
 		prerequisite = { focus = DOM_delo_farm }
 		x = 3
@@ -1140,7 +1140,7 @@ focus = {
 	
 focus = {
 		id = DOM_production_effort
-		icon = GFX_goal_generic_construct_mil_factory
+		icon = GFX_dom_war_industry
 		prerequisite = { focus = DOM_industrial_effort3 }
 		x = 0
 		y = 3
@@ -1186,7 +1186,7 @@ focus = {
 	
 	focus = {
 		id = DOM_infrastructure_effort
-		icon = GFX_goal_generic_construct_civilian
+		icon = GFX_dom_infra_stolici
 		prerequisite = { focus = DOM_industrial_effort2 }
 		available = {
 			ROOT = { has_full_control_of_state = 870 }
@@ -1331,7 +1331,7 @@ focus = {
 	
 	focus = {
 		id = DOM_hull_truhilio
-		icon = GFX_goal_generic_improve_relations 
+		icon = GFX_dom_sogl
 		prerequisite = { focus = DOM_production_effort }
 		prerequisite = { focus = DOM_infrastructure_effort }
 		available = {
@@ -1360,7 +1360,7 @@ focus = {
 	
 	focus = {
 		id = DOM_extra_tech_slot2
-		icon = GFX_focus_research
+		icon = GFX_dom_dop_ya
 		prerequisite = { focus = DOM_hull_truhilio }
 		x = 0
 		y = 5
@@ -1372,7 +1372,7 @@ focus = {
 	
 	focus = {
 		id = DOM_mountain
-		icon = GFX_goal_generic_construction2
+		icon = GFX_dom_resursi
 		prerequisite = { focus = DOM_hull_truhilio }
 		available = {
 			ROOT = { has_full_control_of_state = 870 }
@@ -1392,7 +1392,7 @@ focus = {
 	
 	focus = {
 		id = DOM_liberty_truhilio
-		icon = GFX_goal_support_fascism 
+		icon = GFX_dom_osvoboditel_economiki
 		prerequisite = { focus = DOM_hull_truhilio }
 		available = {
 		DOM = {

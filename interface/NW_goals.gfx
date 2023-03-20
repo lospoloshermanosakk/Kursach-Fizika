@@ -8444,4 +8444,91 @@ spriteTypes = {
 	}
 	
 	
+#####################################	
+# DOMINICAN #########
+########################################		
+	
+	
+	
+	
+#####################################	
+# DOMINICAN #########
+########################################	
+	
+	
+	
+	
+	SpriteType = { 
+		name = "GFX_dom_start_econom_rost"
+		texturefile = "gfx/interface/goals/dom_start_econom_rost.dds"
+	}	
+	SpriteType = { 
+		name = "GFX_dom_nac_park"
+		texturefile = "gfx/interface/goals/dom_nac_park.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_econom_rost"
+		texturefile = "gfx/interface/goals/dom_econom_rost.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_ognevoe_hozaistvo"
+		texturefile = "gfx/interface/goals/dom_ognevoe_hozaistvo.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_econom_rost_two"
+		texturefile = "gfx/interface/goals/dom_econom_rost_two.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_sponsir_univer"
+		texturefile = "gfx/interface/goals/dom_sponsir_univer.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_war_industry"
+		texturefile = "gfx/interface/goals/dom_war_industry.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_infra_stolici"
+		texturefile = "gfx/interface/goals/dom_infra_stolici.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_sogl"
+		texturefile = "gfx/interface/goals/dom_sogl.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_dop_ya"
+		texturefile = "gfx/interface/goals/dom_dop_ya.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_resursi"
+		texturefile = "gfx/interface/goals/dom_resursi.dds"
+	}
+	SpriteType = { 
+		name = "GFX_dom_osvoboditel_economiki"
+		texturefile = "gfx/interface/goals/dom_osvoboditel_economiki.dds"
+	}
+	SpriteType = { 
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.dds"
+	}
+	SpriteType = { 
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.dds"
+	}
+	SpriteType = { 
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.dds"
+	}
+	SpriteType = { 
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.dds"
+	}
+	SpriteType = { 
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.dds"
+	}
+	SpriteType = { 
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.dds"
+	}	
+	
 }
